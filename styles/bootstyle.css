@@ -1,0 +1,18 @@
+p{
+    font-size: medium;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+#navbarResponsive{
+    text-align: right;
+    font-family:Arial, Helvetica, sans-serif;
+    text-emphasis-color: black;
+    font-size: x-large;
+}
+
+footer{
+    text-align: center;
+}
+body{
+    background-color: aqua;
+}

@@ -1,0 +1,61 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: center;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    text-align: center;
+}
+
+
+img{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h2{
+    text-align: center;
+}
+
+.youtube{
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    
+}
+
+.youtube iframe{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.homelink{
+    color: red
+
+}
+
+.link{
+    text-align: center;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: italic
+}
+
+.contact{
+    height: 100x;
+    background-color: gray;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.top{
+    text-align: center;
+}
